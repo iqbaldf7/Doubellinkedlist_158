@@ -182,6 +182,7 @@ void DoubleLinkedList::searchData() {
 
 
 int main() {
+
 	DoubleLinkedList obj;
 	while (true) {
 		try {

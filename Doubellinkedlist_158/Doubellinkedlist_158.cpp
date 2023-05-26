@@ -27,6 +27,7 @@ public:
 };
 
 
+
 DoubleLinkedList::DoubleLinkedList() {
 	START = NULL;
 }
